@@ -1,0 +1,1 @@
+# diabetes-predction-with-MNB-and-resampling
