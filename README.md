@@ -16,3 +16,5 @@ Your body breaks down most of the food you eat into sugar (glucose) and releases
 Libraries Used :
 Numpy, pandas, sklearn, seaborn,matplotlib, streamlit.
 
+![Screenshot (273)](https://user-images.githubusercontent.com/109935418/185846169-e6a97134-12ae-40e4-819b-5e23d0a0dfcf.png)
+![Screenshot (274)](https://user-images.githubusercontent.com/109935418/185846172-6c05c2c2-c9de-4079-a178-1a55e6f17f9f.png)
