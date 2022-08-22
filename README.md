@@ -1,4 +1,4 @@
-# diabetes-predction-with-MNB-and-resampling
+# diabetes-predction-with-GNB-and-resampling
 #Model building
 #Model tuning
 #roc-curve
