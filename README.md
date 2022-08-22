@@ -1,3 +1,5 @@
+![report](https://user-images.githubusercontent.com/109935418/185845769-247e84ea-806e-4d51-94d7-b5a5290f08ed.png)
+![roc_curve](https://user-images.githubusercontent.com/109935418/185845774-ba33a5ce-16b2-4996-9980-3e2d13fcdc3b.png)
 # diabetes-predction-with-GNB-and-resampling
 #Model building
 #Model tuning
